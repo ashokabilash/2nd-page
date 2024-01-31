@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button and Text Box Demo</title>
+    <style>
+        /* Add your custom styles here */
+        .common-class {
+            margin: 10px;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Buttons with a common class -->
+    <button class="common-class">Button 1</button>
+    <button class="common-class">Button 2</button>
+    <button class="common-class">Button 3</button>
+    <button class="common-class">Button 4</button>
+    <button class="common-class">Button 5</button>
+
+    <!-- Text boxes with a common class -->
+    <input type="text" class="common-class" placeholder="Text Box 1">
+    <input type="text" class="common-class" placeholder="Text Box 2">
+    <input type="text" class="common-class" placeholder="Text Box 3">
+    <input type="text" class="common-class" placeholder="Text Box 4">
+    <input type="text" class="common-class" placeholder="Text Box 5">
+
+</body>
+</html>
